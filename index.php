@@ -2,11 +2,7 @@
     <head>
         <link rel="stylesheet"  href="css/main.css" > 
         <script src="js/main.js"></script>
-        <title id="titulopag">
-            <?php
-            echo "ola";
-            ?>
-        </title>
+        <title id="titulopag">Bem-Vindo(a)</title>
         <meta charset="UTF-8">
         <link rel="shortcut icon" href="./img/t.png"> 
         <meta name="viewport" content="width=device-width, initial-scale=1.0">   
